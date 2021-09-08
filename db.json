@@ -1,0 +1,342 @@
+{
+  "scoresList": [
+    "500",
+    "1,000",
+    "2,000",
+    "4,000",
+    "8,000",
+    "16,000",
+    "32,000",
+    "64,000",
+    "125,000",
+    "250,000",
+    "500,000",
+    "1,000,000"
+  ],
+  "questionsAndAnswers": [
+    {
+      "id": 0,
+      "winScore": "$0",
+      "question": "What sort of animal is Walt Disney's Dumbo?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Deer",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Rabbit",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "Elephant",
+          "isCorrect": true
+        },
+        {
+          "letter": "D",
+          "value": "Donkey",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "winScore": "$500",
+      "question": "A person with well-developed abdominal muscles is said to have a what?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "One-pack",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Six-pack",
+          "isCorrect": true
+        },
+        {
+          "letter": "C",
+          "value": "12-pack",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Family-pack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "winScore": "$1,000",
+      "question": "Which of these names is not in the title of a Shakespeare play?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Hamlet",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Romeo",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "Macbeth",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Darren",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "winScore": "$2,000",
+      "question": "The hammer and sickle is one of the most recognisable symbols of which political ideology?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Republicanism",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Communism",
+          "isCorrect": true
+        },
+        {
+          "letter": "C",
+          "value": "Conservatism",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Liberalism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "winScore": "$4,000",
+      "question": "In the United States, what is traditionally the proper way to address a judge?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Your holiness",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Your honor",
+          "isCorrect": true
+        },
+        {
+          "letter": "C",
+          "value": "Your eminence",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "You da man!",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "winScore": "$8,000",
+      "question": "What was the name Institute of magic in the book \"Monday Begins on Saturday\"?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "NUDA",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "NUINU",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "NIICHAVO",
+          "isCorrect": true
+        },
+        {
+          "letter": "D",
+          "value": "NIITAVO",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of these pairs of apps offers roughly the same type of service?",
+      "winScore": "$16,000",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Snapchat and Grubhub",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Whatsapp and SHAREit",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "TikTok and Spotify",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Lyft and Uber",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "winScore": "$32,000",
+      "question": "According to the Highway Code, what shape is the standard sign giving the order to ‘Stop’?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Pentagon",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Hexagon",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "Heptagon",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Octagon",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "winScore": "$64,000",
+      "question": "The national flag of which of these countries does not feature three horizontal stripes?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Russia",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Romania",
+          "isCorrect": true
+        },
+        {
+          "letter": "C",
+          "value": "Hungary",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Germany",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "winScore": "$125,000",
+      "question": "The words ‘Royal Dutch’ appear in the full name of which company?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Esso",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Shell",
+          "isCorrect": true
+        },
+        {
+          "letter": "C",
+          "value": "BP",
+          "isCorrect": false
+        },
+        {
+          "letter": "D",
+          "value": "Texaco",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "winScore": "$250,000",
+      "question": "In the ‘Transformers’ film franchise, who is the leader of the Decepticons?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Megaphone",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Megabyte",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "Megatron",
+          "isCorrect": true
+        },
+        {
+          "letter": "D",
+          "value": "Megabus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "winScore": "$500,000",
+      "question": "The name of which European capital city means ‘Bay of Smokes’ in its native language?",
+      "answers": [
+        {
+          "letter": "A",
+          "value": "Copenhagen",
+          "isCorrect": false
+        },
+        {
+          "letter": "B",
+          "value": "Amsterdam",
+          "isCorrect": false
+        },
+        {
+          "letter": "C",
+          "value": "Reykjavik",
+          "isCorrect": true
+        },
+        {
+          "letter": "D",
+          "value": "Vilnius",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
